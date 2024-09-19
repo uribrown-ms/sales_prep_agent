@@ -1,0 +1,1 @@
+make sure your partition key is set up correctly in cosmos db
